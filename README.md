@@ -1,11 +1,11 @@
 # -kickstarter_Funding_Projects
  kickstarter Funding Successful Projects
 
-# 주요 기능 구현
+# Main Models
 - XGB_Classifier, Radom Forest Classifier 모델링
 
 
-# Futere Plans
+# 
 |#|Procedure|
 |--|--|
 |1.|Data analysing|
