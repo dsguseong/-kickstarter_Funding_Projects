@@ -2,7 +2,7 @@
  kickstarter Funding Successful Projects
 
 # Main Models
-- XGB_Classifier, Radom Forest Classifier 모델링
+- XGB_Classifier, Radom Forest Classifier
 
 
 # 
